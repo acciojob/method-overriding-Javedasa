@@ -15,5 +15,6 @@ public class Main {
         B obj=new B();
        String result=obj.meth();
        System.out.println(result);
+       //comment
     }
 }
