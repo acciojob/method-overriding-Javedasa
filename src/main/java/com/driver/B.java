@@ -4,6 +4,6 @@ public class B extends A {
     @Override
     public String meth() {
 
-        return "Invoking method from class B";
+        return "Method is overridden in Extendend class B";
     }
 }
